@@ -1,0 +1,21 @@
+strategy,scenario_id,intent,tone,fact_recall,tone_accuracy,email_structure,composite
+Strategy A – Advanced (Role + Few-Shot + CoT),1,Follow up after a sales meeting with a potential client,formal,1.0,1.0,1.0,1.0
+Strategy A – Advanced (Role + Few-Shot + CoT),2,Request proposal details from a software vendor,formal,0.8,1.0,1.0,0.9333
+Strategy A – Advanced (Role + Few-Shot + CoT),3,Send a thank-you email after a job interview,casual,1.0,0.8,1.0,0.9333
+Strategy A – Advanced (Role + Few-Shot + CoT),4,Apologise to a customer for a service outage,empathetic,1.0,0.9,1.0,0.9667
+Strategy A – Advanced (Role + Few-Shot + CoT),5,Introduce your company to a potential distribution partner,formal,1.0,1.0,1.0,1.0
+Strategy A – Advanced (Role + Few-Shot + CoT),6,Request a 30-minute meeting with a VP to discuss Q2 marketing budget,formal,0.8,1.0,1.0,0.9333
+Strategy A – Advanced (Role + Few-Shot + CoT),7,Send a weekly project status update to stakeholders,formal,1.0,1.0,1.0,1.0
+Strategy A – Advanced (Role + Few-Shot + CoT),8,Escalate an unresolved customer support ticket,urgent,0.8,1.0,1.0,0.9333
+Strategy A – Advanced (Role + Few-Shot + CoT),9,Follow up after meeting someone at a professional conference,casual,0.6,0.8,1.0,0.8
+Strategy A – Advanced (Role + Few-Shot + CoT),10,Request a deadline extension for a client project deliverable,formal,1.0,1.0,1.0,1.0
+Strategy B – Basic (Minimal Prompt),1,Follow up after a sales meeting with a potential client,formal,1.0,1.0,1.0,1.0
+Strategy B – Basic (Minimal Prompt),2,Request proposal details from a software vendor,formal,0.6,1.0,1.0,0.8667
+Strategy B – Basic (Minimal Prompt),3,Send a thank-you email after a job interview,casual,1.0,0.7,1.0,0.9
+Strategy B – Basic (Minimal Prompt),4,Apologise to a customer for a service outage,empathetic,0.8,0.9,1.0,0.9
+Strategy B – Basic (Minimal Prompt),5,Introduce your company to a potential distribution partner,formal,1.0,1.0,1.0,1.0
+Strategy B – Basic (Minimal Prompt),6,Request a 30-minute meeting with a VP to discuss Q2 marketing budget,formal,0.8,1.0,1.0,0.9333
+Strategy B – Basic (Minimal Prompt),7,Send a weekly project status update to stakeholders,formal,1.0,1.0,1.0,1.0
+Strategy B – Basic (Minimal Prompt),8,Escalate an unresolved customer support ticket,urgent,1.0,1.0,1.0,1.0
+Strategy B – Basic (Minimal Prompt),9,Follow up after meeting someone at a professional conference,casual,0.4,0.7,1.0,0.7
+Strategy B – Basic (Minimal Prompt),10,Request a deadline extension for a client project deliverable,formal,0.4,1.0,1.0,0.8

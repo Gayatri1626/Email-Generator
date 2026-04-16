@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "intent": "Follow up after a sales meeting with a potential client",
+    "key_facts": "Met on Tuesday afternoon | Discussed CRM software solution | Live demo scheduled for next Friday at 2 PM | Pricing starts at $499 per month | Free 30-day trial available",
+    "tone": "formal",
+    "reference_email": "Subject: Follow-Up – CRM Demo Scheduled for Friday\n\nDear [Client Name],\n\nThank you for meeting with me on Tuesday afternoon to discuss how our CRM software solution can support your team's goals.\n\nAs agreed, I have confirmed our live demonstration for next Friday at 2:00 PM. You will have the opportunity to explore the platform's full feature set and ask any questions in real time.\n\nFor your reference, our plans start at $499 per month, and every new client receives a complimentary 30-day trial with no commitment required. I hope this gives you the confidence to experience the product firsthand before making any decisions.\n\nPlease do not hesitate to reach out if there is anything you would like us to cover specifically during the demo.\n\nKind regards,\n[Your Name]"
+  },
+  {
+    "id": 2,
+    "intent": "Request proposal details from a software vendor",
+    "key_facts": "Project deadline is 30 June | Total budget is $50,000 | Requires cloud hosting and 24/7 support | Three vendors are being evaluated | Decision will be made by 15 May",
+    "tone": "formal",
+    "reference_email": "Subject: Request for Proposal – Cloud Hosting & Support Services\n\nDear [Vendor Name],\n\nI am writing to formally request a detailed proposal for cloud hosting and 24/7 support services in connection with an upcoming project.\n\nOur project carries a deadline of 30 June with an allocated budget of $50,000. We are currently evaluating three vendors and intend to make a final decision by 15 May, so we would appreciate receiving your proposal well in advance of that date.\n\nPlease ensure your submission includes a breakdown of hosting tiers, support response times, service-level agreements, and any relevant case studies.\n\nWe look forward to reviewing your proposal and exploring how your services might align with our requirements.\n\nYours sincerely,\n[Your Name]"
+  },
+  {
+    "id": 3,
+    "intent": "Send a thank-you email after a job interview",
+    "key_facts": "Interviewed for Senior Software Engineer role | Spoke with the ML team lead | Discussed Python and machine learning experience | Excited about the remote-first culture | Mentioned availability to start within two weeks",
+    "tone": "casual",
+    "reference_email": "Subject: Thanks for the Chat – Senior Software Engineer Role\n\nHi [Interviewer Name],\n\nJust wanted to say a genuine thank you for taking the time to speak with me today about the Senior Software Engineer position.\n\nI really enjoyed the conversation with you and the ML team. Talking through the Python and machine learning work you're doing only got me more excited about the role, and the remote-first culture sounds like exactly the kind of environment where I do my best work.\n\nAs I mentioned, I'm available to start within two weeks, so timing shouldn't be an issue. I'd love to keep the momentum going and am happy to answer any follow-up questions.\n\nThanks again – hope to hear from you soon!\n[Your Name]"
+  },
+  {
+    "id": 4,
+    "intent": "Apologise to a customer for a service outage",
+    "key_facts": "Outage lasted 4 hours on Wednesday evening | Affected approximately 500 users | Root cause was a database failure | Issue has been fully resolved | Offering 20% discount on next invoice as compensation",
+    "tone": "empathetic",
+    "reference_email": "Subject: Our Sincere Apologies for Wednesday's Service Disruption\n\nDear [Customer Name],\n\nI want to reach out personally to apologise for the service outage that occurred on Wednesday evening. We understand how disruptive a 4-hour interruption can be, and we are truly sorry for the inconvenience this caused you and the approximately 500 other users who were affected.\n\nAfter a thorough investigation, we identified a database failure as the root cause. Our engineering team worked quickly to resolve the issue, and the service has been fully restored.\n\nTo acknowledge the impact this had on your experience, we will be applying a 20% discount to your next invoice. We hope this gesture reflects how seriously we take your trust in us.\n\nWe remain committed to providing you with the reliable service you deserve, and we are putting additional safeguards in place to prevent a recurrence. Thank you for your patience and understanding.\n\nWarmly,\n[Your Name]"
+  },
+  {
+    "id": 5,
+    "intent": "Introduce your company to a potential distribution partner",
+    "key_facts": "Company founded in 2018 | Serves over 200 enterprise clients | Won the Industry Excellence Award in 2023 | Looking for distribution partnership in Southeast Asia | Open to an introductory call next week",
+    "tone": "formal",
+    "reference_email": "Subject: Partnership Opportunity – Distribution in Southeast Asia\n\nDear [Partner Name],\n\nI hope this message finds you well. I am writing to introduce [Company Name], a B2B technology firm founded in 2018 that currently serves over 200 enterprise clients across multiple sectors.\n\nWe are proud to have been recognised with the Industry Excellence Award in 2023, a testament to the quality and impact of our solutions. As we look to expand our reach into Southeast Asia, we are actively seeking a strategic distribution partner who shares our commitment to excellence.\n\nWe believe a partnership with your organisation could create significant mutual value, and we would welcome the opportunity to explore this in more detail. I am available for an introductory call at any time next week and would be happy to work around your schedule.\n\nPlease let me know if you would be open to connecting.\n\nYours sincerely,\n[Your Name]"
+  },
+  {
+    "id": 6,
+    "intent": "Request a 30-minute meeting with a VP to discuss Q2 marketing budget",
+    "key_facts": "Want to present three budget proposals | Proposals ready to share in advance | Available Tuesday or Wednesday next week | Meeting can be held virtually | Decision needed before end of month",
+    "tone": "formal",
+    "reference_email": "Subject: Meeting Request – Q2 Marketing Budget Discussion\n\nDear [VP Name],\n\nI hope you are well. I am writing to request a 30-minute meeting at your convenience to walk through our Q2 marketing budget proposals.\n\nI have prepared three distinct proposals that I believe will support our growth targets for the quarter. I am happy to share these materials in advance so you can review them before we meet. Given that a decision is needed before the end of the month, I wanted to ensure we have sufficient time to discuss the options and align on a direction.\n\nI am available on Tuesday or Wednesday of next week and can accommodate either an in-person or virtual meeting — whichever is most convenient for you.\n\nThank you for your time and consideration. I look forward to hearing from you.\n\nKind regards,\n[Your Name]"
+  },
+  {
+    "id": 7,
+    "intent": "Send a weekly project status update to stakeholders",
+    "key_facts": "Backend development is 80% complete | UI design is delayed by one week | Testing phase begins next Monday | Go-live date remains on track for 15 May | No budget overruns reported",
+    "tone": "formal",
+    "reference_email": "Subject: Weekly Project Status Update – Week Ending [Date]\n\nDear All,\n\nPlease find below this week's project status update.\n\nBackend development is progressing well and is currently 80% complete. The UI design phase has experienced a one-week delay; however, the team is working to recover lost time and the impact on the overall schedule is being carefully managed.\n\nThe testing phase is scheduled to commence next Monday as planned. There have been no budget overruns to report at this stage, and our go-live date of 15 May remains on track.\n\nI will continue to provide weekly updates and will flag any material changes to the schedule or budget as soon as they arise. Please feel free to reach out if you have any questions.\n\nKind regards,\n[Your Name]"
+  },
+  {
+    "id": 8,
+    "intent": "Escalate an unresolved customer support ticket",
+    "key_facts": "Support ticket #45821 has been open for two weeks | Issue has caused an estimated $10,000 in lost revenue | Already contacted support three times with no resolution | Need a resolution or formal response by end of this week | Considering escalating to senior management if unresolved",
+    "tone": "urgent",
+    "reference_email": "Subject: URGENT: Unresolved Support Ticket #45821 – Immediate Action Required\n\nDear [Support Manager Name],\n\nI am writing to formally escalate support ticket #45821, which has now been open for two weeks without resolution.\n\nThis ongoing issue has directly resulted in an estimated $10,000 in lost revenue for our business. Despite contacting your support team on three separate occasions, we have not received a satisfactory response or a clear path to resolution.\n\nThis situation is no longer acceptable. We require either a concrete resolution or a formal written response detailing the next steps by the end of this week. If we do not hear from you by that deadline, we will have no option but to escalate this matter to senior management and explore alternative courses of action.\n\nWe value our relationship with your organisation and sincerely hope this can be resolved promptly. I look forward to your urgent response.\n\nRegards,\n[Your Name]"
+  },
+  {
+    "id": 9,
+    "intent": "Follow up after meeting someone at a professional conference",
+    "key_facts": "Met at TechConf 2025 in London | Both work in the AI space | Discussed potential collaboration on an open-source NLP project | Agreed to connect on LinkedIn | Want to schedule a follow-up call",
+    "tone": "casual",
+    "reference_email": "Subject: Great Meeting You at TechConf 2025!\n\nHi [Name],\n\nIt was really great meeting you at TechConf 2025 in London last week! I really enjoyed our conversation about the AI space and especially the idea of collaborating on an open-source NLP project – I've been thinking about it since we spoke.\n\nI just sent you a connection request on LinkedIn, so we'll be properly connected there too.\n\nWould you be up for a short call sometime in the next couple of weeks to explore the collaboration idea further? I'm pretty flexible on timing, so just let me know what works for you.\n\nLooking forward to staying in touch!\n[Your Name]"
+  },
+  {
+    "id": 10,
+    "intent": "Request a deadline extension for a client project deliverable",
+    "key_facts": "Current deadline is 20 April | Requesting a two-week extension to 4 May | Reason: unexpected API changes introduced by the client | Extended timeline will allow full QA testing | Delivery quality will not be compromised",
+    "tone": "formal",
+    "reference_email": "Subject: Request for Deadline Extension – Project Deliverable\n\nDear [Client Name],\n\nI am writing to formally request a two-week extension to the current project deadline of 20 April, proposing a revised delivery date of 4 May.\n\nThe reason for this request is the unexpected API changes introduced on your side, which have required us to revisit and rework a significant portion of the integration layer. While our team has responded quickly, delivering a thoroughly tested and stable product requires additional time.\n\nThe extended timeline will allow us to complete a full round of QA testing, ensuring that the final deliverable meets the high standard of quality we both expect. We want to be transparent about this challenge rather than rush a delivery that may not reflect our best work.\n\nWe sincerely apologise for any inconvenience this may cause and remain fully committed to delivering an exceptional outcome. I would welcome the opportunity to discuss this further at your earliest convenience.\n\nKind regards,\n[Your Name]"
+  }
+]
